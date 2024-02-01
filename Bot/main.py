@@ -5,7 +5,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-token = "6835356691:AAHYWyYJoivdIGHMvl1GOIuz0SMlFc0tSu0"
+token = ""
 bot = telebot.TeleBot(token)
 
 
